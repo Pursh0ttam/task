@@ -8,6 +8,7 @@ function App() {
     <div className='first'>
     
       <Inform/>
+      <info/>
     </div>
   )
 }
